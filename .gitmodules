@@ -1,0 +1,9 @@
+[submodule "interest_subscriber_frontend"]
+	path = interest_subscriber_frontend
+	url = https://github.com/Africa-t0t0/interest_subscriber_frontend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Africa-t0t0/interest_subscriber_frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Africa-t0t0/interest_subscriber_backend.git
